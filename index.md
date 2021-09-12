@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Assalam u Alaikum, My name is Muhammad Ahmed.
 
-You can use the [editor on GitHub](https://github.com/mahmed14/mahmed.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+🧑🏻‍💻 A Java developer with experience in Spring, Hibernate, Struts2 and, other frameworks and tools. I have maintained production environments; and worked on international open-source projects like OpenSRP and OpenMRS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mahmed14/mahmed.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Despite being a java developer. I love 📚 book reading intending to improve oneself and society by researching, discovering, and building frameworks and tools; not just on a technological level but on a personal and organizational level. Love to work as a team on professional and social level projects.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can contant me on [LinkedIn](https://www.linkedin.com/in/mahmedyousuf/)  
